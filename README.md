@@ -8,7 +8,7 @@
 
 [![Stars](https://img.shields.io/github/stars/nyoom-engineering/oxocarbon?color=%23b66467&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/nyoom-engineering/oxocarbon?color=%238c977d&style=for-the-badge)](https://github.com/nyoom-engineering/oxocarbon/issues)
-[![License](https://img.shields.io/github/license/nyoom-engineering/oxocarbon?color=%238da3b9&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![License](https://img.shields.io/github/license/BattleCh1cken/oxocarbon-rofi?color=%238da3b9&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 ![Discord Server](https://img.shields.io/discord/1050624267592663050?color=738adb&label=Discord&Color=white&style=for-the-badge)
 
 </div>
@@ -30,9 +30,10 @@ cd oxocarbon-rofi
 mkdir -p ~/.config/rofi
 cp config.rasi ~/.config/rofi
 ```
+
 ## License
 
-The project is licensed under the MIT license
+The project is licensed under the GPL 3.0 license
 
 ## Credits
 
