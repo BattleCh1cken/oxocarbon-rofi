@@ -17,25 +17,21 @@ Oxocarbon is a set of community ports of IBM's carbon color palette and design p
 
 ## Showcase
 
-<screenshots>
+![rofi](assets/rofi.png)
+![rofi-with-terminals](assets/rofi-with-terminals.png)
 
 ## Install
 
-- Installation
+Clone the repository, and then copy the config.rasi file into ~/.config/rofi.
 
-## Features (optional)
-
-- Special features and UI tweaks
-
-### Plugin Support (optional)
-
-- What plugins does it support
-
-## FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**\
- A: Run `:help theme`
-
+```sh
+git clone https://github.com/BattleCh1cken/oxocarbon-rofi.git
+cd oxocarbon-rofi
+mkdir -p ~/.config/rofi
+cp config.rasi ~/.config/rofi
+```
 ## License
 
 The project is licensed under the MIT license
+
+## Credits
