@@ -35,3 +35,5 @@ cp config.rasi ~/.config/rofi
 The project is licensed under the MIT license
 
 ## Credits
+
+- [Adi1090x](https://github.com/adi1090x/rofi)
